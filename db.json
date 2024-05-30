@@ -3,7 +3,8 @@
     {
       "name": "Trolley",
       "description": "Contains some roles made by Pietro",
-      "imagePath": "images/test.png"
+      "logo": "images/test.png",
+      "path": "test.zip"
     }
   ]
 }
