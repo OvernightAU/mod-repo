@@ -5,6 +5,12 @@
       "description": "Contains some roles made by Pietro",
       "logo": "images/test.png",
       "path": "mods/test.zip"
-    }
+    },
+    {
+      "name": "Putin",
+      "description": "Surprise",
+      "logo": "images/putin.png",
+      "path": "mods/putin.zip"
+    },
   ]
 }
