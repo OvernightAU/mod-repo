@@ -18,5 +18,11 @@
       "logo": "images/hatexample.png",
       "path": "mods/hatexample.zip"
     },
+    {
+      "name": "Example again",
+      "description": "Hat example :)",
+      "logo": "images/hatexample.png",
+      "path": "mods/hatexample.zip"
+    },
   ]
 }
