@@ -17,6 +17,12 @@
       "description": "Hat example :)",
       "logo": "images/hatexample.png",
       "path": "mods/hatexample.zip"
+    },
+    {
+      "name": "Fake Impostor",
+      "description": "Pretend to be a Impostor",
+      "logo": "images/FakeImpostor.png",
+      "path": "mods/FakeImpostor.zip"
     }
   ]
 }
