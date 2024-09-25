@@ -23,6 +23,12 @@
       "description": "hats made by pengun",
       "logo": "images/hatexample.png",
       "path": "mods/pengun.zip"
+    },
+    {
+      "name": "<size=60%>Controller Input",
+      "description": "<size=80%>Adds support for controller/keyboard input",
+      "logo": "images/controllerLogo.png",
+      "path": "mods/controllerOrKBInput.zip"
     }
   ]
 }
