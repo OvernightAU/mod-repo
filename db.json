@@ -28,7 +28,7 @@
       "name": "MoveMod",
       "description": "Move players with your hands",
       "logo": "images/movemod.png",
-      "path": "mods/movemod.zip"
+      "path": "mods/movemod-lua.zip"
     }
   ]
 }
